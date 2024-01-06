@@ -8,7 +8,7 @@ import time
 from gdoc_requests import change_doc_title
 
 # Add YOUR chromedriver path here
-chromedriver_path = "/home/zsarwar/chromedriver/chromedriver"
+chromedriver_path = "chromedriver"
 # Add your Google Docs here
 # Make sure permissions are set such that anyone can edit them
 # Multiple docs will allow for parallelization

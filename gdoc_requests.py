@@ -16,8 +16,8 @@ SCOPES = [ 'https://www.googleapis.com/auth/drive',
 
 
 # Add your title token and credentials path here
-token_path = "/home/zsarwar/Projects/GSpell/token_title.json"
-creds_path = "/home/zsarwar/Projects/GSpell/credentials.json"
+token_path = "token_title.json"
+creds_path = "credentials.json"
 
 
 

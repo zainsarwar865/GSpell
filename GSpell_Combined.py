@@ -18,8 +18,8 @@ DISCOVERY_DOC = 'https://docs.googleapis.com/$discovery/rest?version=v1'
 
 
 # Add your content and credentials path here
-token_path = "/home/zsarwar/Projects/GSpell/token_content.json"
-creds_path = "/home/zsarwar/Projects/GSpell/credentials.json"
+token_path = "token_content.json"
+creds_path = "credentials.json"
 
 def get_credentials():
     """Gets valid user credentials from storage.

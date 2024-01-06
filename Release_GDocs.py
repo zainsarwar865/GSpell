@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 
 # Add YOUR chromedriver path here
-chromedriver_path = "/home/zsarwar/chromedriver/chromedriver"
+chromedriver_path = "chromedriver"
 
 # Add your Google Docs here
 # Make sure permissions are set such that anyone can edit them
